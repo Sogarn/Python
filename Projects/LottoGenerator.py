@@ -1,6 +1,6 @@
 import random
 lines = 5
-megamillions = True
+megamillions = False    
 powerball = True
 rng = random
 
