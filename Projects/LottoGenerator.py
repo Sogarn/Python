@@ -1,7 +1,7 @@
 import random
-lines = 5
-megamillions = False    
-powerball = True
+lines = 10
+megamillions = True    
+powerball = False
 rng = random
 
 if megamillions:
