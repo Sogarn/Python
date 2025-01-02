@@ -9,5 +9,5 @@ LottoGenerator
 RaidAttendanceSimulator
 * Generates the discrete probability distribution of our WoW raid attendance based on historical data
 
-CalendarCalculator
+PayrollCalendarCalculator
 * Calculates relevant dates for biweekly payroll
