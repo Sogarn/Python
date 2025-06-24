@@ -11,3 +11,6 @@ RaidAttendanceSimulator
 
 CalendarCalculator
 * Calculates relevant dates for biweekly payroll
+
+Starcraft2_MutationWeekAnalysis
+* Breakdown of Brutal+ difficulty statistics for weekly mutation missions. Also some web scraping.
